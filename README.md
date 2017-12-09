@@ -3,7 +3,6 @@ In this repo, there is code of ps2 controlled arduino based holonomic drivetrain
 
 Hello guys,
 
- This is digram of my motors and drive arrangement
  Pins of motors are :
 
 Motor 1:
